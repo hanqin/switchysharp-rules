@@ -74,6 +74,7 @@
 *://*.googlesyndication.com/*
 *://*.googleusercontent.com/*
 *://*.googlesource.com/*
+*://*.googleblog.com/*
 
 *://*.tiltbrush.com/*
 

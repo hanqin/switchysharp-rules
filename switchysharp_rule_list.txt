@@ -60,6 +60,7 @@
 *://*.github.io/*
 *://git-scm.com/*
 
+*://debugproject.com/*
 *://*.golang.org/*
 *://*.firebase.com/*
 *://goo.gl/*

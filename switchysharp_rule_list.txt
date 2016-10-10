@@ -60,6 +60,7 @@
 *://*.github.io/*
 *://git-scm.com/*
 
+*://*.google-analytics.com/*
 *://*.tensorflow.org/*
 *://debugproject.com/*
 *://*.golang.org/*

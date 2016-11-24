@@ -8,7 +8,7 @@ Switchysharp rule list
 致谢: 感谢switchysharp的作者和本repo的原作者, 本人所做的就是基于原有列表持续更新, 让科学上网更方便.
 How to use
 ---
-* 安装[SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=en)
+* 安装[SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=en)，或者使用本地安装[在此下载](https://github.com/FelisCatus/SwitchyOmega/releases)
 * 点击该插件, 选择Options
 * 在左侧列表选择Auto Switch
 * 在Rule List Config中Rule List Format选择Switchy, Rule List URL输入

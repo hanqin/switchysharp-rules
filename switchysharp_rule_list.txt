@@ -1,6 +1,7 @@
 #BEGIN
 
 [wildcard]
+*://*.spring.io/*
 *://*.netflix.com/*
 
 *://*.medium.com/*

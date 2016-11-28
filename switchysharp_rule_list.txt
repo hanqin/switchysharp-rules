@@ -1,6 +1,8 @@
 #BEGIN
 
 [wildcard]
+*://*.pyimagesearch.com/*
+
 *://*.spring.io/*
 *://*.netflix.com/*
 
